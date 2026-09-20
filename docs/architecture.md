@@ -1,6 +1,9 @@
 # Architecture
 
-vague structure, will need to go through ARRL proper but something like this
+
+> [!warning]
+> vague structure, will need to go through ARRL proper to decide on flow but something like this. 
+
 
 AM source
    ↓
