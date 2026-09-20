@@ -4,6 +4,7 @@
 > [!warning]
 > vague structure, will need to go through ARRL proper to decide on flow but something like this. 
 
+![[superhet_architecture.png]]
 
 AM source
    ↓
