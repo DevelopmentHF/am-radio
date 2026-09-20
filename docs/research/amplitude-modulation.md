@@ -1,4 +1,4 @@
-# Amplitude Modulation (AM)
+# Amplitude modulation (AM)
 
 Info impressed onto a carrier wave $c(t) = C\sin(2\pi f_ct)$
 > Single frequency carrier, i.e 693 kHz
