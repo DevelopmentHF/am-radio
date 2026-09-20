@@ -25,7 +25,7 @@ The aim is to document the design process from requirements and simulations thro
 
 ## Status
 
-Work in progress.
+Project formulation and ideation. 
 
 ## Project Structure
 
@@ -45,3 +45,5 @@ am-radio/
     ├── real/              # Physical hardware measurements and test results
     └── sims/              # Simulation-based test and verification results
 ```
+
+View the [[architecture]] of the project here.

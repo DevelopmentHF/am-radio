@@ -92,3 +92,44 @@ Desktop.ini
 exports/
 temp/
 tmp/
+
+# =========================================
+# Fusion 360 / CAD
+# =========================================
+
+# Temporary / backup files
+*.bak
+*.tmp
+*.temp
+~$*
+
+# Fusion 360 local cache / recovery-type files
+*.f3d~
+*.f3z~
+
+# Generic CAD autosave/recovery
+*.autosave
+*.recover
+
+# Render / mesh generation temp files
+*.mesh
+*.cache
+
+# Optional: ignore generated manufacturing exports
+# Uncomment if you only want to track source CAD
+# *.stl
+# *.3mf
+# *.dxf
+# *.step
+# *.stp
+
+# OS metadata often created around CAD files
+.DS_Store
+Thumbs.db
+Desktop.ini
+
+# =========================================
+# Obsidian
+# =========================================
+
+.obsidian/*
