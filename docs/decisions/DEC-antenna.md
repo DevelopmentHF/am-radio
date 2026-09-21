@@ -1,6 +1,6 @@
 # Decision - Antenna 
 
-ARRL and the other [[refs|resources]] state that a *ferrite-loop* antenna is a suitable arrangement for receiving AM radio.
+ARRL and the other [[refs|resources]] state that a *ferrite-loop* antenna is a suitable arrangement for receiving AM radio to meet the [[requirements]].
 
 There are three primary options for this.
 

@@ -14,6 +14,7 @@ $$
 > Purpose of $C_{tune}$ is to resonate the frontend such that the resonant frequency is the same as the frequency of the AM radio station one wants to listen to
 
 `L7` on the RC-6065 is a ferrite antenna. Need to measure L and R. Or buy from jaycar (https://www.jaycar.com.au/aerial-ferrite-rod-with-coil/p/LF1020?srsltid=AU7gw4XzW9NVKASd9DTNhwep7kWFuDEbQ25aGhvvEfzBc2rO9BNJ7k33). Need to pair with a trimming capacitor for $C_{tune}$.
+> Might need to use a dual gang variable capacitor to tune the [[mixer]] at the same time
 
 ## Jaycar ferrite loop
 

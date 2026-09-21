@@ -1,5 +1,7 @@
 # Calculations - Antenna
 
+Using the formula for resonance frequencies, and noting that our [[ferrite-loop-antennas]] are essentially RLC circuits:
+
 $$
 \begin{align}
 f_{res} &= \frac{1}{2\pi \sqrt{LC}}\\
