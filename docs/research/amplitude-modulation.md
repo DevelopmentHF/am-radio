@@ -5,6 +5,9 @@ Info impressed onto a carrier wave $c(t) = C\sin(2\pi f_ct)$
 
 Information is encoded on $m(t) = M\cos(2\pi f_m t)$
 
+>[!info]
+>`M` is dimensionless. I.e choose M = 0.5 for 50% modulation. 50% modulation means the **carrier amplitude is being varied by ±50%** around its normal value
+
 Perform modulation by multiplying these two together. 
 For a single tone modulating signal, $am(t) = c(t) * (1 + m(t))$
 > the 1 represents a DC component to allow the envelope to both increase and decrease (see 11.2.1 ARRL)
