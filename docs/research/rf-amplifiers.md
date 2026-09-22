@@ -86,4 +86,7 @@ $$
 $$
 The capacitor sees several paths to ground. Need small signal model for this.
 
+## Common collector
+Used as a buffer (as opposed to transformer which hurts my head). Not as good at isolating tho
+
 
